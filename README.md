@@ -8,8 +8,6 @@ Our team, 'AI Earth Guardians,' has leveraged cutting-edge technology to create 
 ## Demo
 [Watch our project demo](https://drive.google.com/file/d/1cMzpX_XIdRWGnllHZLnwyJzxaxohDUUt/view)
 
-## Final Project
-[Explore the code and documentation on GitHub](https://github.com/QoutiOussama13/GeoForEco)
 
 ## Problem
 Our project aims to address the critical problem of rapidly diminishing forests due to urbanization and various factors. This loss triggers economic, social, and environmental challenges, disrupting livelihoods, and exacerbating climate change.
